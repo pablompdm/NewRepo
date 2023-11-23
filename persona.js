@@ -16,6 +16,6 @@ const p3 = {
     notaLengua: 9
 };
 
-modules.exports = {
+module.exports = {
 p1,p2,p3
 };
