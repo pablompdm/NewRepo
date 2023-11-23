@@ -13,7 +13,7 @@ const p2 = {
 const p3 = {
     name: "Sonia",
     notaMates: 100,
-    notaLengua: 5512
+    notaLengua: 551
 };
 
 module.exports = {
