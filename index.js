@@ -1,4 +1,4 @@
-const {p1, p2, p3} = require ("./persona.js");  
+const {p1, p2, p3} = require ("./persona.js");
 
 const isValidNotas = (persona) => {
     const minMates = 50;
