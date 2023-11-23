@@ -10,7 +10,9 @@ const isValidNotas = (persona) => {
     return isValidLengua && isValidMates;
 }
 
-console.log(p2.name, ":", isValidNotas(p1));
+const
+
+console.log(p1.name, ":", isValidNotas(p1));
 console.log(p2.name, ":", isValidNotas(p2));
 console.log(p3.name, ":", isValidNotas(p2));
 
