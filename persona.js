@@ -6,7 +6,7 @@ const p1 = {
 
 const p2 = {
     name: "Paco",
-    notaMates: 10,
+    notaMates: 100,
     notaLengua: 90
 };
 
